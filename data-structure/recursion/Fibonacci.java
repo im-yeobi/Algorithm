@@ -1,4 +1,4 @@
-package ch2_recursion;
+package recursion;
 
 /**
  * @author yeobi Created 2020-02-08
