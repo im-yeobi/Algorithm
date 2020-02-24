@@ -5,9 +5,7 @@
 - [재귀](https://github.com/im-yeobi/algorithm/tree/master/data-structure/recursion)
 - [배열 리스트](https://github.com/im-yeobi/algorithm/tree/master/data-structure/array-list)
 
-## 알고리즘
+## 알고리즘 문제풀이
 
-- [백준](https://www.acmicpc.net/)
-
-
-
+- 정렬
+   - [[백준] 1026번](https://github.com/im-yeobi/algorithm/tree/master/algorithm/src/main/java/sorting/baekjoon/_1026)
