@@ -4,6 +4,8 @@
 
 - [재귀](https://github.com/im-yeobi/algorithm/tree/master/data-structure/recursion)
 - [배열 리스트](https://github.com/im-yeobi/algorithm/tree/master/data-structure/array-list)
+- [연결 리스트](https://github.com/im-yeobi/algorithm/tree/master/data-structure/linked-list)
+- [트리](https://github.com/im-yeobi/algorithm/tree/master/data-structure/tree)
 
 
 ## 알고리즘 문제풀이
